@@ -3,8 +3,9 @@ This repository contains a Linux server infrastructure project built for **LKS (
 The project simulates a real-world network environment using multiple Debian servers configured with various network services.
 
 
+
 ## Network Topology
-The infrastructure consists of:
+The infrastructure consists of
 
 - **Server 1**
   - DNS Master
@@ -29,7 +30,7 @@ The infrastructure consists of:
 
 
 ## Services Included
-This lab environment includes the following services:
+This lab environment includes the following services
 - DNS (Bind9)
 - DHCP Server
 - Web Server (Apache / Nginx)
@@ -42,3 +43,35 @@ This lab environment includes the following services:
 - VPN (OpenVPN)
 - Monitoring (SNMP, Cacti)
 - Firewall Configuration
+
+
+
+## Project Structure
+LKS-Linux-Server-Infrastructure-Debian
+
+├── topology
+├── dns
+├── dhcp
+├── web
+├── ftp
+├── mail
+├── proxy
+├── vpn
+├── monitoring
+└── firewall
+
+
+
+## Purpose
+
+The goal of this project is to:
+
+- Practice Linux server administration
+- Simulate enterprise network services
+- Prepare for LKS Networking competition
+- Document server configurations for learning
+
+
+## Author
+
+Student project for **LKS Networking System Administration** practice.
