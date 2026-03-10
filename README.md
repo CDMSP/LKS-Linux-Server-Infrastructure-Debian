@@ -46,9 +46,8 @@ This lab environment includes the following services
 
 
 
-## Project Structure
 LKS-Linux-Server-Infrastructure-Debian
-
+│
 ├── topology
 ├── dns
 ├── dhcp
@@ -59,7 +58,6 @@ LKS-Linux-Server-Infrastructure-Debian
 ├── vpn
 ├── monitoring
 └── firewall
-
 
 
 ## Purpose
