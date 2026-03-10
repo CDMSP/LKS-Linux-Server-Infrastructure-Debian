@@ -47,6 +47,7 @@ This lab environment includes the following services
 
 
 LKS-Linux-Server-Infrastructure-Debian
+
 │
 ├── topology
 ├── dns
